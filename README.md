@@ -21,3 +21,5 @@ cd ~/.local/share/gnome-shell/extensions/hotkeysForActivatingSiblingsInDashToPan
 glib-compile-schemas schemas/
 ```
 to compile the changes. Then hit `Alt + F2` then `r` then `Enter` to load the changes into Gnome Shell. And maybe reenable the extension.
+
+These instructions are somewhat untested so YMMV.
