@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    
+  <schema id="org.gnome.shell.extensions.hotkeysForActivatingSiblingsInDashToPanel"
+    path="/org/gnome/shell/extensions/hotkeysForActivatingSiblingsInDashToPanel/">
+
+    <!-- If you make any changes to must run glib-compile-schemas schemas/ in the directory of the extension -->
+    <key type="as" name="activate-left">
+      <default><![CDATA[['<Super>Left']]]></default>
+      <summary>The shortcut key</summary>
+      <description>
+        a shortcut
+      </description>
+    </key>
+    <key type="as" name="activate-right">
+      <default><![CDATA[['<Super>Right']]]></default>
+      <summary>The shortcut key</summary>
+      <description>
+        a shortcut
+      </description>
+    </key>
+    <!-- 
+    <key type="as" name="swap-left">
+      <default><![CDATA[['<Super><Shift>Left']]]></default>
+      <summary>The shortcut key</summary>
+      <description>
+        a shortcut
+      </description>
+    </key>
+    <key type="as" name="swap-right">
+      <default><![CDATA[['<Super><Shift>Right']]]></default>
+      <summary>The shortcut key</summary>
+      <description>
+        a shortcut
+      </description>
+    </key>
+    -->
+    
+  </schema>
+  
+</schemalist>
+
+
