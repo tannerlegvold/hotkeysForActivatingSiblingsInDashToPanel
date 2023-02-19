@@ -1,5 +1,9 @@
 # hotkeysForActivatingSiblingsInDashToPanel
-A Gnome Extension that adds keybindings (hotkeys) that activate the window sibling to the current window in the Dash to Panel taskbar. Assumes Dash to Panel is already installed.
+A Gnome Extension that adds keybindings (hotkeys) that activate the window sibling to the current window in the Dash to Panel taskbar. Assumes Dash to Panel is already installed. 
+* To activate the window to the left in the taskbar hit Super + Left
+* To activate the window to the right in the taskbar hit Super + Right
+
+-----------------------------------------------------------------------------
 
 To install
 ```
